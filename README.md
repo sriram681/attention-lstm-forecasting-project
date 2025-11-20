@@ -61,6 +61,6 @@ Plots
 
 Evaluation
 
-🏁 Conclusion
+Conclusion
 
 This project shows how LSTM + Attention improves forecasting and provides interpretability.
